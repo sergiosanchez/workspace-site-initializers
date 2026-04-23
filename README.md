@@ -39,4 +39,3 @@ If you do not wish to compile the code, use the binaries included in these paths
 2. **Deployment**: Copy both files into the `/deploy` folder of your Liferay 7.4+ instance.
 
 ---
-**Desarrollado para la PoC de Iberdrola - 2026 / Developed for Iberdrola PoC - 2026**
