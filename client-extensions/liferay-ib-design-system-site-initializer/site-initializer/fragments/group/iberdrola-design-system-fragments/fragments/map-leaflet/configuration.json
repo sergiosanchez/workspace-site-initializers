@@ -1,0 +1,56 @@
+{
+	"fieldSets": [
+		{
+			"fields": [
+				{
+					"name": "objectRESTName",
+					"type": "text",
+					"label": "Nombre del Objeto (API)",
+					"defaultValue": "plantas"
+				},
+				{
+					"name": "initialLat",
+					"type": "text",
+					"label": "Latitud Inicial",
+					"defaultValue": "40.4168"
+				},
+				{
+					"name": "initialLng",
+					"type": "text",
+					"label": "Longitud Inicial",
+					"defaultValue": "-3.7038"
+				},
+				{
+					"name": "initialZoom",
+					"type": "text",
+					"label": "Zoom Inicial (4-18)",
+					"defaultValue": "6"
+				}
+			],
+			"label": "Configuración de Datos y Mapa"
+		},
+		{
+			"fields": [
+				{
+					"name": "labelCountry",
+					"type": "text",
+					"label": "Nombre del Ámbito (ej. España)",
+					"defaultValue": "España"
+				},
+				{
+					"name": "panelColor1",
+					"type": "colorPicker",
+					"label": "Color Hex Panel Superior",
+					"defaultValue": "#f9c34d"
+				},
+				{
+					"name": "panelColor2",
+					"type": "colorPicker",
+					"label": "Color Hex Panel Inferior",
+					"defaultValue": "#ff9800"
+				}
+			],
+			"label": "Estilos de Dashboard"
+		}
+	]
+}

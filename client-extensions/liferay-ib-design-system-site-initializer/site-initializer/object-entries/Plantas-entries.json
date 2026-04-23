@@ -1,0 +1,275 @@
+{
+	"object-entries": [
+		{
+			"externalReferenceCode": "19b783bc-ea23-62f6-8063-4c355aea5798",
+			"nombre": "Núñez de Balboa",
+			"latitud": 38.3582,
+			"longitud": -6.2251,
+			"potenciaMW": 500.0,
+			"descripcion": "<p>Situada en Usagre (Badajoz). Una de las mayores de Europa.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "9145471d-72c6-49d3-70a5-712871c0d189",
+			"nombre": "Francisco Pizarro",
+			"latitud": 39.7188,
+			"longitud": -5.1539,
+			"potenciaMW": 590.0,
+			"descripcion": "<p>Referente en Extremadura, energía para 334.000 hogares.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "4b84dca8-2c08-f76b-bd6f-e090d50dc5d8",
+			"nombre": "Ceclavín",
+			"latitud": 39.8142,
+			"longitud": -6.7725,
+			"potenciaMW": 328.0,
+			"descripcion": "<p>Provincia de Cáceres. Clave para la descarbonización.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "66db109f-34a8-e43f-cf5d-84461ffa9eb3",
+			"nombre": "Andévalo",
+			"latitud": 37.5833,
+			"longitud": -7.1667,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Huelva. Integrada en un gran complejo eólico.</p>",
+			"comunidadAutonoma": "andalucia"
+		},
+		{
+			"externalReferenceCode": "cc5290d4-41a0-e7b9-df80-7593fc4a899b",
+			"nombre": "Almaraz I",
+			"latitud": 39.8167,
+			"longitud": -5.6833,
+			"potenciaMW": 80.0,
+			"descripcion": "<p>Cáceres. Transición energética en zonas históricas.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "600f5651-99f5-ffc3-ade6-17b3fbf75112",
+			"nombre": "Almaraz II",
+			"latitud": 39.82,
+			"longitud": -5.7,
+			"potenciaMW": 30.0,
+			"descripcion": "<p>Ampliación estratégica en el área de Almaraz.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "828c2f0c-7089-0d00-1a53-706d0fcaeaf4",
+			"nombre": "Arenales",
+			"latitud": 39.2333,
+			"longitud": -5.9167,
+			"potenciaMW": 150.0,
+			"descripcion": "<p>Cáceres. Gran capacidad de generación solar.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "ff4b2848-4cbd-92d5-5103-ae1bec418e26",
+			"nombre": "Campo Arañuelo I",
+			"latitud": 39.85,
+			"longitud": -5.6,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Cáceres. Parte del complejo solar del Arañuelo.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "143c11a5-3179-7788-a779-0144c3032652",
+			"nombre": "Campo Arañuelo II",
+			"latitud": 39.86,
+			"longitud": -5.61,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Cáceres. Generación eficiente en el valle del Tajo.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "03b1fd2b-f512-5058-14f9-dbb5548ab1dc",
+			"nombre": "Campo Arañuelo III",
+			"latitud": 39.87,
+			"longitud": -5.62,
+			"potenciaMW": 40.0,
+			"descripcion": "<p>Cáceres. Incluye sistema de almacenamiento por baterías.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "56c63b7e-5005-a2bf-9003-32fc478ab8c9",
+			"nombre": "Puertollano Fotovoltaica",
+			"latitud": 38.6833,
+			"longitud": -4.1,
+			"potenciaMW": 100.0,
+			"descripcion": "<p>Ciudad Real. Suministra energía a la planta de Hidrógeno Verde.</p>",
+			"comunidadAutonoma": "castillamancha"
+		},
+		{
+			"externalReferenceCode": "4161566b-e4c3-01d9-f5d3-d1b5d3c83767",
+			"nombre": "Teruel Renovable",
+			"latitud": 40.35,
+			"longitud": -1.1,
+			"potenciaMW": 120.0,
+			"descripcion": "<p>Teruel. Proyecto de transición justa en zonas mineras.</p>",
+			"comunidadAutonoma": "aragon"
+		},
+		{
+			"externalReferenceCode": "0442e556-c040-37f0-cd50-ec10be08e9f7",
+			"nombre": "Majada Alta",
+			"latitud": 39.75,
+			"longitud": -5.5,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Extremadura. Tecnología de seguidores bifaciales.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "1af8d691-033e-da2c-07d5-7198f3316201",
+			"nombre": "San Antonio",
+			"latitud": 39.1,
+			"longitud": -6.2,
+			"potenciaMW": 30.0,
+			"descripcion": "<p>Badajoz. Planta de tamaño medio para red local.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "461d90c1-525a-6910-2f52-b510b806912f",
+			"nombre": "Romeral",
+			"latitud": 37.4,
+			"longitud": -5.8,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Sevilla. Aprovechamiento de alta radiación solar.</p>",
+			"comunidadAutonoma": "andalucia"
+		},
+		{
+			"externalReferenceCode": "abd9e647-840e-8740-f30c-8e7816cfd682",
+			"nombre": "Olmedilla",
+			"latitud": 39.5167,
+			"longitud": -2.1833,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Cuenca. Pionera en el desarrollo solar de Castilla-La Mancha.</p>",
+			"comunidadAutonoma": "castillamancha"
+		},
+		{
+			"externalReferenceCode": "873dbaae-1e52-d39a-4bc7-fc07b34d54bf",
+			"nombre": "Barcience",
+			"latitud": 39.9833,
+			"longitud": -4.25,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Toledo. Estratégica por cercanía a centros de consumo masivo.</p>",
+			"comunidadAutonoma": "castillamancha"
+		},
+		{
+			"externalReferenceCode": "66c1d985-8691-e953-4e50-6bb68d0c8ac1",
+			"nombre": "Peñarrubia",
+			"latitud": 38.45,
+			"longitud": -1.45,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Murcia. Alta eficiencia en zona semi-desértica.</p>",
+			"comunidadAutonoma": "murcia"
+		},
+		{
+			"externalReferenceCode": "16796844-e9ff-b274-a76a-8c0f9b6a5269",
+			"nombre": "Verano Solar",
+			"latitud": 41.65,
+			"longitud": -4.7167,
+			"potenciaMW": 40.0,
+			"descripcion": "<p>Valladolid. Solar fotovoltaica en el corazón de Castilla.</p>",
+			"comunidadAutonoma": "castillaleon"
+		},
+		{
+			"externalReferenceCode": "cd55149e-d11f-4370-49c1-07755b09672d",
+			"nombre": "Villarino",
+			"latitud": 41.2667,
+			"longitud": -6.4667,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Salamanca. Proyecto híbrido con energía hidráulica.</p>",
+			"comunidadAutonoma": "castillaleon"
+		},
+		{
+			"externalReferenceCode": "bee0d3ec-4e7a-c9c5-0110-ebf56f57396c",
+			"nombre": "Cedillo",
+			"latitud": 39.65,
+			"longitud": -7.5,
+			"potenciaMW": 375.0,
+			"descripcion": "<p>Cáceres. Gran escala cerca de la frontera con Portugal.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "b66743c5-78f6-73f1-4c9a-6865d1f6f32b",
+			"nombre": "Aranda",
+			"latitud": 41.6667,
+			"longitud": -3.6833,
+			"potenciaMW": 30.0,
+			"descripcion": "<p>Burgos. Integración en entornos industriales.</p>",
+			"comunidadAutonoma": "castillaleon"
+		},
+		{
+			"externalReferenceCode": "6ef7abbc-8e8a-d55e-2604-078143b789a5",
+			"nombre": "Monclova",
+			"latitud": 37.5167,
+			"longitud": -5.3167,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Sevilla. Una de las plantas más eficientes del sur.</p>",
+			"comunidadAutonoma": "andalucia"
+		},
+		{
+			"externalReferenceCode": "2a424dec-031a-507d-9e49-7c2ad1612e0b",
+			"nombre": "Manzanares",
+			"latitud": 39.0,
+			"longitud": -3.3667,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Ciudad Real. Punto clave en el nudo de energía central.</p>",
+			"comunidadAutonoma": "castillamancha"
+		},
+		{
+			"externalReferenceCode": "cc444d82-a577-a2e6-bef9-988058ebe309",
+			"nombre": "Valdecaballeros",
+			"latitud": 39.2333,
+			"longitud": -5.1833,
+			"potenciaMW": 100.0,
+			"descripcion": "<p>Badajoz. Reutilización de infraestructuras eléctricas existentes.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "b6e0c260-3d50-f35f-321c-182f4b2313f0",
+			"nombre": "Oriol",
+			"latitud": 39.6833,
+			"longitud": -6.5833,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Cáceres. Tecnología punta en paneles de alta sensibilidad.</p>",
+			"comunidadAutonoma": "extremadura"
+		},
+		{
+			"externalReferenceCode": "e9e08036-6540-3d79-6986-ad03323205b4",
+			"nombre": "Caparacena",
+			"latitud": 37.2833,
+			"longitud": -3.7667,
+			"potenciaMW": 50.0,
+			"descripcion": "<p>Granada. Contribución solar al mix energético andaluz.</p>",
+			"comunidadAutonoma": "andalucia"
+		},
+		{
+			"externalReferenceCode": "1dad16d3-4a3f-fa3e-1614-85b8d94e2a46",
+			"nombre": "Sabinanigo Solar",
+			"latitud": 42.5167,
+			"longitud": -0.3667,
+			"potenciaMW": 20.0,
+			"descripcion": "<p>Huesca. Solar de montaña con adaptación a climas fríos.</p>",
+			"comunidadAutonoma": "aragon"
+		},
+		{
+			"externalReferenceCode": "6057a312-bdac-3197-7799-fb348498ab7a",
+			"nombre": "Mula",
+			"latitud": 38.0333,
+			"longitud": -1.4833,
+			"potenciaMW": 450.0,
+			"descripcion": "<p>Murcia. Entre las plantas más productivas por horas de sol.</p>",
+			"comunidadAutonoma": "murcia"
+		},
+		{
+			"externalReferenceCode": "bbe8895f-7086-199f-017e-1b1949a6573d",
+			"nombre": "Fuentepelayo",
+			"latitud": 41.2167,
+			"longitud": -4.1667,
+			"potenciaMW": 35.0,
+			"descripcion": "<p>Segovia. Energía solar integrada en paisajes agrícolas.</p>",
+			"comunidadAutonoma": "castillaleon"
+		}
+	],
+	"objectDefinitionName": "Planta"
+}

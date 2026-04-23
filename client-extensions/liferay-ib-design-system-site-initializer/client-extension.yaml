@@ -1,0 +1,14 @@
+liferay-ib-design-system-site-initializer:
+    id: iberdrola-design-system-site-initializer
+    name: Liferay Iberdrola Design System Site Initializer
+    oAuthApplicationHeadlessServer: liferay-sample-site-initializer-oahs
+    siteExternalReferenceCode: LIFERAY_IBERDROLA_DESIGN_SYSTEM_SAMPLE
+    siteName: Liferay Iberdrola Design System Sample
+    type: siteInitializer
+liferay-ib-design-system-site-initializer-oahs:
+    .serviceAddress: localhost:8080
+    .serviceScheme: http
+    name: Liferay Sample Site Initializer OAuth Application Headless Server
+    scopes:
+        -   Liferay.Headless.Site.everything
+    type: oAuthApplicationHeadlessServer

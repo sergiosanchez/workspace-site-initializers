@@ -1,0 +1,14 @@
+{
+    "description": "Página que contiene el mapa de instalaciones",
+    "fragmentCompositionDefinitionPath": "page-definition.json",
+    "friendlyURL": "/map",
+    "hidden": false,
+    "name": "Map",
+    "name_i18n": {
+        "es-ES": "Mapa",
+        "en-US": "Map"
+    },
+    "private": false,
+    "system": false,
+    "type": "content"
+}

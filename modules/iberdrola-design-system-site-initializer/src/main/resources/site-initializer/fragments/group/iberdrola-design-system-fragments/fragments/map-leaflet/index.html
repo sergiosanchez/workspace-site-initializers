@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div class="iberdrola-map-component">
+    
+    <div class="map-overlay-filter">
+        <label>Filtrar por región</label>
+        <select id="filter-ccaa">
+            <option value="all">Todas las regiones</option>
+        </select>
+    </div>
+
+    <div class="map-overlay-stats">
+        <div class="stat-card card-top" style="background-color: ${(configuration.panelColor1)! '#f9c34d'};">
+            <div id="label-count" class="stat-label">Cargando...</div>
+            <div id="stat-count" class="stat-value">0</div>
+        </div>
+        <div class="stat-card card-bottom" style="background-color: ${(configuration.panelColor2)! '#ff9800'};">
+            <div id="label-power" class="stat-label">Cargando...</div>
+            <div id="stat-power" class="stat-value">0 MW</div>
+        </div>
+    </div>
+
+    <div id="maps-toolkit-leaflet-map"></div>
+
+    <div id="geo-fallback-metadata" class="sr-only" style="display:none;">
+        </div>
+</div>

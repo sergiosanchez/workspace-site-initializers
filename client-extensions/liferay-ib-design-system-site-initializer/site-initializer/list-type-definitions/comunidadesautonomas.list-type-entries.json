@@ -1,0 +1,56 @@
+[
+	{
+		"externalReferenceCode": "ANDALUCIA",
+		"key": "andalucia",
+		"name": "Andalucía",
+		"name_i18n": {
+			"es-ES": "Andalucía"
+		},
+		"type": "string"
+	},
+	{
+		"externalReferenceCode": "ARAGON",
+		"key": "aragon",
+		"name": "Aragón",
+		"name_i18n": {
+			"es-ES": "Aragón"
+		},
+		"type": "string"
+	},
+	{
+		"externalReferenceCode": "CASTILLALAMANCHA",
+		"key": "castillamancha",
+		"name": "Castilla-La Mancha",
+		"name_i18n": {
+			"es-ES": "Castilla-La Mancha"
+		},
+		"type": "string"
+	},
+	{
+		"externalReferenceCode": "CASTILLALEON",
+		"key": "castillaleon",
+		"name": "Castilla y León",
+		"name_i18n": {
+			"es-ES": "Castilla y León"
+		},
+		"type": "string"
+	},
+	{
+		"externalReferenceCode": "EXTREMADURA",
+		"key": "extremadura",
+		"name": "Extremadura",
+		"name_i18n": {
+			"es-ES": "Extremadura"
+		},
+		"type": "string"
+	},
+	{
+		"externalReferenceCode": "MURCIA",
+		"key": "murcia",
+		"name": "Región de Murcia",
+		"name_i18n": {
+			"es-ES": "Región de Murcia"
+		},
+		"type": "string"
+	}
+]

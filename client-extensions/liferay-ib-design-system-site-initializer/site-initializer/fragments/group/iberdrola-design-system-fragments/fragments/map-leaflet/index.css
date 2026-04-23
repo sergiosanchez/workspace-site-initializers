@@ -1,0 +1,74 @@
+.iberdrola-map-component {
+    position: relative;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#maps-toolkit-leaflet-map {
+    height: 650px;
+    width: 100%;
+    border-radius: 12px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+}
+
+.map-overlay-filter {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    z-index: 1000;
+    background: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    width: 210px;
+}
+
+.map-overlay-filter label {
+    font-size: 11px;
+    font-weight: bold;
+    color: #666;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.map-overlay-filter select {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+    font-size: 14px;
+}
+
+.map-overlay-stats {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 230px;
+}
+
+.stat-card {
+    padding: 18px;
+    border-radius: 14px;
+    margin-bottom: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    border-left: 5px solid rgba(0,0,0,0.1);
+}
+
+.stat-label {
+    font-size: 12px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.stat-value {
+    font-size: 30px;
+    font-weight: 800;
+    color: #000;
+}
+
+.seo-hidden {
+    display: none;
+}

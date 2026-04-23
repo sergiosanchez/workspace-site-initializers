@@ -1,0 +1,339 @@
+{
+    "active": true,
+    "externalReferenceCode": "IB_ELECTRIC_GEN_PLANT",
+    "label": { "en_US": "Planta" },
+    "name": "Planta",
+    "pluralLabel": { "en_US": "Plantas" },
+    "enableLocalization": true,
+    "objectFields": [
+        {
+            "indexed": false,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "true",
+            "DBType": "String",
+            "label": {
+                "en_US": "Author"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "eeb69a5e-1f1f-3247-87f8-bac3a20a6a9d",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "creator",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "en_US": "Create Date"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "309fa20c-062d-d161-3ff0-123aa31127f1",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "en_US": "External Reference Code"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "60e33e01-369e-05a1-b3e9-e911a2d62e39",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "true",
+            "DBType": "Long",
+            "label": {
+                "en_US": "ID"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "630197ec-8d02-962a-e0e3-463f5a97f7a2",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "en_US": "Modified Date"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "d721d8fd-7651-12ff-2f6b-9d1dbf320145",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "true",
+            "DBType": "Integer",
+            "label": {
+                "en_US": "Status"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "80022339-d572-f6d0-8e64-47c4dc41404f",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "status",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "en_US": "nombre"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "d9d71a1e-6333-74db-eb39-c454301ddd9f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "en_US",
+            "unique": false,
+            "name": "nombre",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "Double",
+            "label": {
+                "en_US": "longitud"
+            },
+            "type": "Double",
+            "required": false,
+            "externalReferenceCode": "2583991a-2dbe-bc22-1a3d-04841603990a",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "longitud",
+            "state": false,
+            "businessType": "Decimal",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "Double",
+            "label": {
+                "en_US": "latitud"
+            },
+            "type": "Double",
+            "required": false,
+            "externalReferenceCode": "bf2a40c8-25b5-7865-95e7-9dbbf492b3b7",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "latitud",
+            "state": false,
+            "businessType": "Decimal",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "Double",
+            "label": {
+                "en_US": "potenciaMW"
+            },
+            "type": "Double",
+            "required": false,
+            "externalReferenceCode": "fc5112c8-c1c6-3790-6db1-4e269631203a",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "potenciaMW",
+            "state": false,
+            "businessType": "Decimal",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "en_US": "descripcion"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "25c97406-9a7b-6c68-6790-c6df1f286f3b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "en_US",
+            "unique": false,
+            "name": "descripcion",
+            "state": false,
+            "businessType": "RichText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "acceptedFileExtensions",
+                    "value": "jpeg, jpg, pdf, png"
+                },
+                {
+                    "name": "maximumFileSize",
+                    "value": 100
+                },
+                {
+                    "name": "fileSource",
+                    "value": "documentsAndMedia"
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Long",
+            "label": {
+                "en_US": "imagen"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "4f6965b9-cd27-0e78-7f58-88b0f95d7be5",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "en_US",
+            "unique": false,
+            "name": "imagen",
+            "state": false,
+            "businessType": "Attachment",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "IB_ES_REGIONS",
+            "indexed": true,
+            "defaultValue": "null",
+            "localized": false,
+            "objectFieldSettings": [
+
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "en_US": "comunidad autonoma"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "fe847e73-eb19-dd58-bcbb-4995fb8c79c7",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "en_US",
+            "unique": false,
+            "name": "comunidadAutonoma",
+            "state": false,
+            "businessType": "Picklist",
+            "readOnlyConditionExpression": ""
+        }
+    ],
+    "restContextPath": "/o/c/plantas",
+	"panelCategoryKey": "control_panel.object",
+	"objectFolderExternalReferenceCode": "IB_OBJECTS",
+    "scope": "company",
+    "titleObjectFieldName": "nombre"
+}

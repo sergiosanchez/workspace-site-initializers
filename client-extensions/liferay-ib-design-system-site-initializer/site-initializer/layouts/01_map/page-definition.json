@@ -1,0 +1,35 @@
+{
+    "pageElement": {
+        "pageElements": [
+            {
+                "definition": {
+                    "layout": {
+                        "widthType": "Fixed"
+                    }
+                },
+                "pageElements": [
+                    {
+                        "definition": {
+                            "fragment": {
+                                "key": "map-leaflet",
+                                "siteKey": "[$GROUP_KEY$]"
+                            },
+                            "fragmentConfig": {},
+                            "fragmentFields": [],
+                            "indexed": true
+                        },
+                        "type": "Fragment"
+                    }
+                ],
+                "type": "Section"
+            }
+        ],
+        "type": "Root"
+    },
+    "settings": {
+        "masterPage": {
+            "key": "master-page-key"
+        }
+    },
+    "version": 1.1
+}

@@ -1,0 +1,6 @@
+Bundle-Name: iberdrola-site-initializer
+Bundle-SymbolicName: com.iberdrola.site.initializer
+Bundle-Version: 1.0.0
+Liferay-Site-Initializer-Name: Iberdrola Design System
+Provide-Capability: liferay.site.initializer
+Web-ContextPath: /site-initializer-iberdrola-design-system
