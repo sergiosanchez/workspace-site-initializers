@@ -1,7 +1,9 @@
 # Liferay Site Initializer PoCs
 
+### 🇪🇸 Español
 Este repositorio contiene un **Liferay Workspace** configurado para desplegar de forma automatizada diferentes elementos que componen un sitio Web de Liferay a través de Site Initializers. Se incluyen empaquetados de dos formas: Client-Extension y módulo OSGi.
 
+### 🇺🇸 English
 This repository contains a **Liferay Workspace** configured to automatically deploy different elements that make up a Liferay Website through Site Initializers. These are packaged in two ways: Client-Extension and OSGi module.
 
 ---
@@ -37,3 +39,4 @@ If you do not wish to compile the code, use the binaries included in these paths
 2. **Deployment**: Copy both files into the `/deploy` folder of your Liferay 7.4+ instance.
 
 ---
+**Desarrollado para la PoC de Iberdrola - 2026 / Developed for Iberdrola PoC - 2026**
